@@ -18,7 +18,7 @@ export default function Page4() {
             <div className="container-contacts-right">
               <div className="contacts-right-main" style={{ fontSize: '18px' }}>
                 <div className="right-main-text">
-                  г. Москва, Ильменский проезд, 17к3
+                  г. Москва, Ильменский проезд, 17к4
                   {' '}
                   <br />
                   График работы: с 11:00 до 23:00

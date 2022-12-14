@@ -34,9 +34,8 @@ class Banner extends React.PureComponent {
             </h2>
             <h3 key="h2" className="cta-info" style={{ color: 'white', marginTop: '25px' }}>Запишись сейчас и получи скидку 20%</h3>
             {/* <ModalWindow /> */}
-            <button className="btn-large" type="button"
-            onClick={() => window.location.href = 'tel:79161043736'}
-            >
+          
+            <button className="btn-large" type="button" onClick={() => location.href = 'tel:79161043736'}>
               Получить
             </button>
           </QueueAnim>
